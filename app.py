@@ -21,7 +21,7 @@ Masters in Computer Science Student @ [University of Florida](http://www.ufl.edu
 """
 EMAIL = "divyamdubey@ufl.edu"
 SOCIAL_MEDIA = {
-    ":phone: (352)-682-0794": "tel:(352)-682-0794",
+    ":phone: (352)-682-0794": "tel:+13526820794",
     # ":e-mail: divyamdubey@ufl.edu": EMAIL,
     " :link: LinkedIn": "https://linkedin.com/in/divyam2207",
     " :link: GitHub": "https://github.com/divyam2207",
