@@ -14,7 +14,7 @@ resume_in_drive = "https://drive.google.com/file/d/1HujyadrbMWqD7JGRGYdubtaioe_-
 
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "Divyam Dubey | Digital Resume "
-PAGE_ICON = ":wave:"
+PAGE_ICON = ":computer:"
 NAME = "Divyam Dubey"
 DESCRIPTION = """
 Masters in Computer Science Student @ [University of Florida](http://www.ufl.edu) :crocodile:
@@ -23,8 +23,8 @@ EMAIL = "divyamdubey@ufl.edu"
 SOCIAL_MEDIA = {
     ":phone: (352)-682-0794": "(352)-682-0794",
     # ":e-mail: divyamdubey@ufl.edu": EMAIL,
-    " :linked_paperclips: LinkedIn": "https://linkedin.com/in/divyam2207",
-    " :linked_paperclips: GitHub": "https://github.com/divyam2207",
+    " :link: LinkedIn": "https://linkedin.com/in/divyam2207",
+    " :link: GitHub": "https://github.com/divyam2207",
     
     
 }
