@@ -67,7 +67,7 @@ profile_pic = Image.open(profile_pic)
 col1, col2 = st.columns(2, gap="small")
 
 with col1:
-    st.image(profile_pic, caption="Any sufficiently advanced technology is indistinguishable from magic.")
+    st.image(profile_pic, caption=' "Any sufficiently advanced technology is indistinguishable from magic." ~ Arhtur C. Clarke')
 
 with col2:
     st.title(NAME)
