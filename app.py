@@ -9,7 +9,7 @@ from PIL import Image
 curr_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = curr_dir / "styles" / "main.css"
 resume_file = curr_dir / "assets" / "DivyamDubey_Summer_Intern_Resume.pdf"
-profile_pic = curr_dir / "assets" / "Divyam_logo2.png"
+profile_pic = curr_dir / "assets" / "Divyam_Pic.jpg"
 resume_in_drive = "https://drive.google.com/file/d/1HujyadrbMWqD7JGRGYdubtaioe_--Eh9/view?usp=drive_link"
 
 # --- GENERAL SETTINGS ---
@@ -67,7 +67,7 @@ profile_pic = Image.open(profile_pic)
 col1, col2 = st.columns(2, gap="small")
 
 with col1:
-    st.image(profile_pic, width=280)
+    st.image(profile_pic, caption="Any sufficiently advanced technology is indistinguishable from magic.")
 
 with col2:
     st.title(NAME)
