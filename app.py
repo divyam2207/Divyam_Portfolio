@@ -29,10 +29,10 @@ SOCIAL_MEDIA = {
     
 }
 PROJECTS = {
+    ":card_file_box: Redactify - Python script to redact personal and sensitive information from large sets of files using NLP": "https://www.github.com/divyam2207",
     ":card_file_box: pdfGPT - Streamlit-based web app for document processing": "https://github.com/divyam2207/pdfGPT",
     ":card_file_box: Spotify Party Collab - Collaborative music app with Spotify API": "https://github.com/divyam2207/CollaborativeMusicPlayingApplication",
     ":card_file_box: Cat Non-Cat Classifier - Machine Learning based Image Classifier": "https://github.com/divyam2207/Cat-vs-Non-Cat-Classifier",
-    ":card_file_box: Bank Customer Churn Predictor - Deep learning based predictor using TensorFlow" : "https://github.com/divyam2207/Bank_Customer_Churn_Predictor" 
 }
 
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
